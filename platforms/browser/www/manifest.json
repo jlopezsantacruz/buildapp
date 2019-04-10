@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "lab2 javier",
+  "short_name": "lab2 javier",
+  "version": "com.phonegap.helloworld",
+  "description": "Lab 2 Javier",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#2196f3"
+}
